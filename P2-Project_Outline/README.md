@@ -7,11 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Website to help a family of a child with Cystic fibrosis, they will need to post events and comments in a blog, receive donations and maybe sell some items.
 ### Features
-Include Features here
+their story, info on cystic fibrosis, contact us, updates on Delaney(the girl with the disease) or a blog, possibly a store to sell items, donations, their events and a way to register or out for our events. 
 ### Technologies
-Include Technologies here
+Java
+Spring Boot Framework
+MySQL
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+RestAPI
+Javascript
